@@ -24,7 +24,7 @@ __Example command__
 __Example command__
 
 ```
-./task1_fasta.py --input sample_files/fasta/sample.fasta
+./task1_fasta.py --input_file sample_files/fasta/sample.fasta
 ```
 
 3. This program returns gene names for multiple chromosome and coordinates and outputs an annotated file (annotated_coordinates.csv) with the chromosome, coordinate and the respective gene name.

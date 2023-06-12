@@ -6,7 +6,7 @@ Tarishi Pathak
 
 ## Directory Structure
 
-<img width="308" alt="Screenshot 2023-06-12 at 10 01 24 AM" src="https://github.com/tariship/Dana-Farber-Coding-Assessment/assets/90934721/1564db09-26e4-4574-8be2-f18a12572c52">
+<img width="308" alt="Screenshot 2023-06-12 at 10 01 24 AM" src="https://github.com/tariship/Coding-Assessment/assets/90934721/e2ebbd0d-f54f-4dde-991c-c99fb2607671">
 
 
 ## Task 1

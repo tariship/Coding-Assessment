@@ -16,7 +16,7 @@ Tarishi Pathak
 __Example command__
 
 ```
-./task1_fastq.py --directory "sample_files"
+./task1_fastq.py --directory sample_files
 ```
 
 2. This program finds the 10 most frequent sequences in a FASTA file and returns the sequence and the number of times it occurs in the file.

@@ -64,7 +64,7 @@ __Limitations:__
 
 ## SQL
 
-'GROUPBY(OrderID)' is missing.
+'GROUP BY UserId' is missing.
 
 So, the corrected statement would be:
 
